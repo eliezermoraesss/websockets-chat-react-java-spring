@@ -4,7 +4,9 @@
   "private": true,
   "dependencies": {
     "@stomp/stompjs": "^7.0.0",
+    "bootstrap": "^5.3.3",
     "cra-template-pwa": "2.0.0",
+    "moment": "^2.30.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
